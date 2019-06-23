@@ -13,7 +13,9 @@ L["bayonettascarboroughfairequipped"]={{path="chatsounds/autoadd/beauty_bomber/b
 L["beauty bomber"]={{path="chatsounds/autoadd/beauty_bomber/beauty bomber.ogg",length=0.940}}
 L["bgbosschorus"]={{path="chatsounds/autoadd/beauty_bomber/bgbosschorus.ogg",length=24.330}}
 L["but grandma shouldnt talk that way"]={{path="chatsounds/autoadd/beauty_bomber/but grandma shouldnt talk that way.ogg",length=1.846}}
+L["caramelldanseninstloop"]={{path="chatsounds/autoadd/beauty_bomber/caramelldanseninstloop.ogg",length=46.618}}
 L["carlmoan"]={{path="chatsounds/autoadd/beauty_bomber/carlmoan.ogg",length=1.545}}
+L["circusmusic"]={{path="chatsounds/autoadd/beauty_bomber/circusmusic.ogg",length=153.809}}
 L["cockatooscream"]={{path="chatsounds/autoadd/beauty_bomber/cockatooscream.ogg",length=0.760}}
 L["cockatooscreambabble"]={{path="chatsounds/autoadd/beauty_bomber/cockatooscreambabble.ogg",length=3.345}}
 L["come inside and lets fuck around"]={{path="chatsounds/autoadd/beauty_bomber/come inside and lets fuck around.ogg",length=2.000}}
@@ -24,8 +26,11 @@ L["fiestatime"]={{path="chatsounds/autoadd/beauty_bomber/fiestatime.ogg",length=
 L["fr e sh a voca do"]={{path="chatsounds/autoadd/beauty_bomber/fr e sh a voca do.ogg",length=1.295}}
 L["getsmart"]={{path="chatsounds/autoadd/beauty_bomber/getsmart.ogg",length=21.579}}
 L["gimme that hat"]={{path="chatsounds/autoadd/beauty_bomber/gimme that hat.ogg",length=1.301}}
+L["goodbye everyone ill remember you all in therapy"]={{path="chatsounds/autoadd/beauty_bomber/goodbye everyone ill remember you all in therapy.ogg",length=3.111}}
 L["graciefilms distorted"]={{path="chatsounds/autoadd/beauty_bomber/graciefilms distorted.ogg",length=3.242}}
 L["gunter quack"]={{path="chatsounds/autoadd/beauty_bomber/gunter quack.ogg",length=0.307}}
+L["hah haha ha ha haaaaaa"]={{path="chatsounds/autoadd/beauty_bomber/hah haha ha ha haaaaaa.ogg",length=2.368}}
+L["hhhhhh"]={{path="chatsounds/autoadd/beauty_bomber/hhhhhh.ogg",length=0.626}}
 L["hi how are ya"]={{path="chatsounds/autoadd/beauty_bomber/hi how are ya.ogg",length=1.020}}
 L["how many layers of irony are you on"]={{path="chatsounds/autoadd/beauty_bomber/how many layers of irony are you on.ogg",length=2.375}}
 L["i said give it to me"]={{path="chatsounds/autoadd/beauty_bomber/i said give it to me.ogg",length=1.903}}
@@ -40,21 +45,15 @@ L["letsboomboom"]={{path="chatsounds/autoadd/beauty_bomber/letsboomboom.ogg",len
 L["like maybe five or six right now my dude"]={{path="chatsounds/autoadd/beauty_bomber/like maybe five or six right now my dude.ogg",length=2.499}}
 L["lmtai loop"]={{path="chatsounds/autoadd/beauty_bomber/lmtai loop/1.ogg",length=14.900},{path="chatsounds/autoadd/beauty_bomber/lmtai loop/2.ogg",length=7.464}}
 L["loud succ"]={{path="chatsounds/autoadd/beauty_bomber/loud succ.ogg",length=2.475}}
+L["meeee"]={{path="chatsounds/autoadd/beauty_bomber/meeee.ogg",length=1.502}}
+L["meeee meeeeee meeeeeeeee hahahahahahaaaaaa"]={{path="chatsounds/autoadd/beauty_bomber/meeee meeeeee meeeeeeeee hahahahahahaaaaaa.ogg",length=8.425}}
+L["meeeeee"]={{path="chatsounds/autoadd/beauty_bomber/meeeeee.ogg",length=1.347}}
+L["meeeeeeeee"]={{path="chatsounds/autoadd/beauty_bomber/meeeeeeeee.ogg",length=1.834}}
 L["meme school"]={{path="chatsounds/autoadd/beauty_bomber/meme school.ogg",length=1.067}}
 L["mindblown"]={{path="chatsounds/autoadd/beauty_bomber/mindblown.ogg",length=23.798}}
 L["mmm try again"]={{path="chatsounds/autoadd/beauty_bomber/mmm try again.ogg",length=1.500}}
 L["mmm you bet"]={{path="chatsounds/autoadd/beauty_bomber/mmm you bet.ogg",length=1.812}}
 L["moar"]={{path="chatsounds/autoadd/beauty_bomber/moar.ogg",length=0.364}}
-L["mooncosmicpowermakeup"]={{path="chatsounds/autoadd/beauty_bomber/mooncosmicpowermakeup.ogg",length=31.442}}
-L["mooncosmicpowermakeupfx"]={{path="chatsounds/autoadd/beauty_bomber/mooncosmicpowermakeupfx.ogg",length=30.310}}
-L["mooncrisismakeup"]={{path="chatsounds/autoadd/beauty_bomber/mooncrisismakeup.ogg",length=31.200}}
-L["mooncrisismakeupfx"]={{path="chatsounds/autoadd/beauty_bomber/mooncrisismakeupfx.ogg",length=29.850}}
-L["mooncrystalpowermakeup"]={{path="chatsounds/autoadd/beauty_bomber/mooncrystalpowermakeup.ogg",length=36.466}}
-L["mooncrystalpowermakeupfx"]={{path="chatsounds/autoadd/beauty_bomber/mooncrystalpowermakeupfx.ogg",length=42.739}}
-L["mooneternalmakeup"]={{path="chatsounds/autoadd/beauty_bomber/mooneternalmakeup.ogg",length=37.204}}
-L["mooneternalmakeupfx"]={{path="chatsounds/autoadd/beauty_bomber/mooneternalmakeupfx.ogg",length=35.450}}
-L["moonprismpowermakeup"]={{path="chatsounds/autoadd/beauty_bomber/moonprismpowermakeup.ogg",length=37.650}}
-L["moonprismpowermakeupfx"]={{path="chatsounds/autoadd/beauty_bomber/moonprismpowermakeupfx.ogg",length=40.700}}
 L["mrkrabsviolin"]={{path="chatsounds/autoadd/beauty_bomber/mrkrabsviolin.ogg",length=36.785}}
 L["nah i dont really feel like it"]={{path="chatsounds/autoadd/beauty_bomber/nah i dont really feel like it.ogg",length=2.319}}
 L["negro"]={{path="chatsounds/autoadd/beauty_bomber/negro.ogg",length=0.730}}
@@ -79,12 +78,15 @@ L["smashing"]={{path="chatsounds/autoadd/beauty_bomber/smashing.ogg",length=1.55
 L["so remember children its wingardium leviosa swish and flick"]={{path="chatsounds/autoadd/beauty_bomber/so remember children its wingardium leviosa swish and flick.ogg",length=4.960}}
 L["spacealarm"]={{path="chatsounds/autoadd/beauty_bomber/spacealarm.ogg",length=3.001}}
 L["sphinx uh wire and negro"]={{path="chatsounds/autoadd/beauty_bomber/sphinx uh wire and negro.ogg",length=2.700}}
+L["spongerape"]={{path="chatsounds/autoadd/beauty_bomber/spongerape.ogg",length=8.124}}
 L["squadilah"]={{path="chatsounds/autoadd/beauty_bomber/squadilah.ogg",length=1.108}}
 L["squiddyg"]={{path="chatsounds/autoadd/beauty_bomber/squiddyg.ogg",length=61.086}}
 L["stop it ron stop"]={{path="chatsounds/autoadd/beauty_bomber/stop it ron stop/1.ogg",length=2.170},{path="chatsounds/autoadd/beauty_bomber/stop it ron stop/2.ogg",length=1.151},{path="chatsounds/autoadd/beauty_bomber/stop it ron stop/3.ogg",length=1.110}}
 L["that that you let a penis penetrate your friendship penis"]={{path="chatsounds/autoadd/beauty_bomber/that that you let a penis penetrate your friendship penis.ogg",length=5.900}}
+L["thats funny"]={{path="chatsounds/autoadd/beauty_bomber/thats funny.ogg",length=1.292}}
 L["theatreland"]={{path="chatsounds/autoadd/beauty_bomber/theatreland.ogg",length=27.813}}
 L["theres two of them"]={{path="chatsounds/autoadd/beauty_bomber/theres two of them.ogg",length=1.896}}
+L["torchwood stinger"]={{path="chatsounds/autoadd/beauty_bomber/torchwood stinger.ogg",length=4.493}}
 L["two million year old"]={{path="chatsounds/autoadd/beauty_bomber/two million year old.ogg",length=1.037}}
 L["watch this"]={{path="chatsounds/autoadd/beauty_bomber/watch this.ogg",length=1.114}}
 L["we are off"]={{path="chatsounds/autoadd/beauty_bomber/we are off.ogg",length=0.837}}

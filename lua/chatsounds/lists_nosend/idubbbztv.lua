@@ -48,6 +48,8 @@ L["i really hope you dont have herpes"]={{path="chatsounds/autoadd/idubbbztv/i r
 L["i really hope youre not transmitting herpes to me"]={{path="chatsounds/autoadd/idubbbztv/i really hope youre not transmitting herpes to me.ogg",length=2.041}}
 L["i would like a jack daniels on the rocks"]={{path="chatsounds/autoadd/idubbbztv/i would like a jack daniels on the rocks.ogg",length=2.105}}
 L["id wonder what i say if i"]={{path="chatsounds/autoadd/idubbbztv/id wonder what i say if i.ogg",length=1.231}}
+L["idubbbz jump"]={{path="chatsounds/autoadd/idubbbztv/idubbbz jump.ogg",length=0.866}}
+L["im gay"]={{path="chatsounds/autoadd/idubbbztv/im gay.ogg",length=1.000}}
 L["is california really sending out flavoured condoms"]={{path="chatsounds/autoadd/idubbbztv/is california really sending out flavoured condoms.ogg",length=2.913}}
 L["is this like lemon flavour"]={{path="chatsounds/autoadd/idubbbztv/is this like lemon flavour.ogg",length=1.226}}
 L["is uh"]={{path="chatsounds/autoadd/idubbbztv/is uh.ogg",length=0.528}}
@@ -86,6 +88,7 @@ L["wait a minute"]={{path="chatsounds/autoadd/idubbbztv/wait a minute.ogg",lengt
 L["well"]={{path="chatsounds/autoadd/idubbbztv/well.ogg",length=0.453}}
 L["were gonna be looking at"]={{path="chatsounds/autoadd/idubbbztv/were gonna be looking at.ogg",length=0.917}}
 L["were talkin"]={{path="chatsounds/autoadd/idubbbztv/were talkin.ogg",length=0.719}}
+L["what are you a fuckin faggot"]={{path="chatsounds/autoadd/idubbbztv/what are you a fuckin faggot.ogg",length=1.069}}
 L["what are you fuckin gay dude"]={{path="chatsounds/autoadd/idubbbztv/what are you fuckin gay dude.ogg",length=1.103}}
 L["what the f"]={{path="chatsounds/autoadd/idubbbztv/what the f.ogg",length=0.581}}
 L["whooo"]={{path="chatsounds/autoadd/idubbbztv/whooo.ogg",length=1.029}}

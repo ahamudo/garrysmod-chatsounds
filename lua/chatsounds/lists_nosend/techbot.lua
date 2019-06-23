@@ -41,6 +41,8 @@ L["game over yeah"]={{path="chatsounds/autoadd/techbot/game over yeah.ogg",lengt
 L["gay"]={{path="chatsounds/autoadd/techbot/gay.ogg",length=1.398}}
 L["genius"]={{path="chatsounds/autoadd/techbot/genius.ogg",length=0.492}}
 L["git gud"]={{path="chatsounds/autoadd/techbot/git gud.ogg",length=1.016}}
+L["hacking in progress intro"]={{path="chatsounds/autoadd/techbot/hacking in progress intro.ogg",length=12.444}}
+L["hacking in progress loop"]={{path="chatsounds/autoadd/techbot/hacking in progress loop.ogg",length=5.646}}
 L["hah"]={{path="chatsounds/autoadd/techbot/hah.ogg",length=0.803}}
 L["hah gay"]={{path="chatsounds/autoadd/techbot/hah gay.ogg",length=2.750}}
 L["hell"]={{path="chatsounds/autoadd/techbot/hell.ogg",length=0.779}}
@@ -68,6 +70,10 @@ L["moon theme"]={{path="chatsounds/autoadd/techbot/moon theme.ogg",length=4.557}
 L["my"]={{path="chatsounds/autoadd/techbot/my.ogg",length=0.885}}
 L["my eyes"]={{path="chatsounds/autoadd/techbot/my eyes.ogg",length=1.395}}
 L["my razil begins to shoosh"]={{path="chatsounds/autoadd/techbot/my razil begins to shoosh.ogg",length=1.660}}
+L["ne dumay"]={{path="chatsounds/autoadd/techbot/ne dumay.ogg",length=0.954}}
+L["ne dumay distorted"]={{path="chatsounds/autoadd/techbot/ne dumay distorted.ogg",length=0.909}}
+L["ne dumay loop"]={{path="chatsounds/autoadd/techbot/ne dumay loop.ogg",length=2.679}}
+L["ne dumay song"]={{path="chatsounds/autoadd/techbot/ne dumay song.ogg",length=2.628}}
 L["nnoice"]={{path="chatsounds/autoadd/techbot/nnoice.ogg",length=0.675}}
 L["no"]={{path="chatsounds/autoadd/techbot/no.ogg",length=0.898}}
 L["no nyt"]={{path="chatsounds/autoadd/techbot/no nyt.ogg",length=0.427}}

@@ -12,6 +12,7 @@ L["blend"]={{path="chatsounds/autoadd/misc/blend.ogg",length=0.593}}
 L["boom"]={{path="chatsounds/autoadd/misc/boom.ogg",length=7.245}}
 L["brodyquest"]={{path="chatsounds/autoadd/misc/brodyquest.ogg",length=21.342}}
 L["broteamsubscriberalert"]={{path="chatsounds/autoadd/misc/broteamsubscriberalert.ogg",length=12.286}}
+L["bruh"]={{path="chatsounds/autoadd/misc/bruh.ogg",length=0.467}}
 L["but"]={{path="chatsounds/autoadd/misc/but.ogg",length=0.162}}
 L["by"]={{path="chatsounds/autoadd/misc/by.ogg",length=0.208}}
 L["carpet"]={{path="chatsounds/autoadd/misc/carpet.ogg",length=0.419}}
@@ -28,6 +29,7 @@ L["dialup1"]={{path="chatsounds/autoadd/misc/dialup1.ogg",length=25.629}}
 L["die waffen legt an"]={{path="chatsounds/autoadd/misc/die waffen legt an.ogg",length=3.370}}
 L["doom1"]={{path="chatsounds/autoadd/misc/doom1.ogg",length=16.378}}
 L["doom2"]={{path="chatsounds/autoadd/misc/doom2.ogg",length=18.695}}
+L["e"]={{path="chatsounds/autoadd/misc/e.ogg",length=1.302}}
 L["ea sucks big cock"]={{path="chatsounds/autoadd/misc/die waffen legt an.ogg",length=3.370}}
 L["ebola"]={{path="chatsounds/autoadd/misc/ebola/ebola 1.ogg",length=0.409},{path="chatsounds/autoadd/misc/ebola/ebola 2.ogg",length=0.708},{path="chatsounds/autoadd/misc/ebola/ebola 3.ogg",length=0.618},{path="chatsounds/autoadd/misc/ebola/ebola 4.ogg",length=1.036}}
 L["ebooooola"]={{path="chatsounds/autoadd/misc/ebooooola.ogg",length=1.569}}
@@ -38,6 +40,7 @@ L["fine"]={{path="chatsounds/autoadd/misc/fine.ogg",length=0.662}}
 L["finished"]={{path="chatsounds/autoadd/misc/finished.ogg",length=0.486}}
 L["get fucked"]={{path="chatsounds/autoadd/misc/get fucked.ogg",length=0.916}}
 L["grants"]={{path="chatsounds/autoadd/misc/grants.ogg",length=0.366}}
+L["hi im paul"]={{path="chatsounds/autoadd/misc/hi im paul.ogg",length=3.065}}
 L["hooolyyy jeeesuuus"]={{path="chatsounds/autoadd/misc/hooolyyy jeeesuuus.ogg",length=6.873}}
 L["how are you gentlemen all your base are belong to us"]={{path="chatsounds/autoadd/misc/how are you gentlemen all your base are belong to us.ogg",length=4.316}}
 L["is"]={{path="chatsounds/autoadd/misc/is.ogg",length=0.194}}
@@ -53,6 +56,7 @@ L["jeers2"]={{path="chatsounds/autoadd/misc/jeers2.ogg",length=7.496}}
 L["klopfolo"]={{path="chatsounds/autoadd/misc/klopfolo.ogg",length=0.313}}
 L["kurwa"]={{path="chatsounds/autoadd/misc/kurwa.ogg",length=1.282}}
 L["ldeath"]={{path="chatsounds/autoadd/misc/ldeath.ogg",length=1.007}}
+L["life is pain i hate"]={{path="chatsounds/autoadd/misc/life is pain i hate.ogg",length=2.099}}
 L["littlegirls"]={{path="chatsounds/autoadd/misc/littlegirls.ogg",length=4.965}}
 L["loud nigra"]={{path="chatsounds/autoadd/misc/loud nigra.ogg",length=13.858}}
 L["lul"]={{path="chatsounds/autoadd/misc/lul.ogg",length=0.358}}
@@ -67,7 +71,6 @@ L["mrng"]={{path="chatsounds/autoadd/misc/mrng.ogg",length=1.624}}
 L["namomed"]={{path="chatsounds/autoadd/misc/namomed.ogg",length=0.700}}
 L["nein nein nein"]={{path="chatsounds/autoadd/misc/nein nein nein.ogg",length=3.109}}
 L["no one"]={{path="chatsounds/autoadd/misc/no one.ogg",length=0.366}}
-L["nobody expects the spanish inquisition"]={{path="chatsounds/autoadd/misc/nobody expects the spanish inquisition.ogg",length=6.165}}
 L["not in to the"]={{path="chatsounds/autoadd/misc/not in to the.ogg",length=0.615}}
 L["not in to the pit"]={{path="chatsounds/autoadd/misc/not in to the pit.ogg",length=1.137}}
 L["now you fucked up"]={{path="chatsounds/autoadd/misc/now you fucked up.ogg",length=19.069}}

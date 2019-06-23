@@ -14,9 +14,11 @@ L["but look what were dealing with man"]={{path="chatsounds/autoadd/jontron/but 
 L["caaaaaaaaaaaaaaaars"]={{path="chatsounds/autoadd/jontron/caaaaaaaaaaaaaaaars.ogg",length=1.907}}
 L["cmere banny"]={{path="chatsounds/autoadd/jontron/cmere banny.ogg",length=1.130}}
 L["did i hallucinated all that didnt i"]={{path="chatsounds/autoadd/jontron/did i hallucinated all that didnt i.ogg",length=1.668}}
+L["dundundun dun da da da da clapping you dont get a ring ha"]={{path="chatsounds/autoadd/jontron/dundundun dun da da da da clapping you dont get a ring ha.ogg",length=3.682}}
 L["finally a game system for me"]={{path="chatsounds/autoadd/jontron/finally a game system for me.ogg",length=2.470}}
 L["fuck it"]={{path="chatsounds/autoadd/jontron/fuck it.ogg",length=0.535}}
 L["fuck you"]={{path="chatsounds/autoadd/jontron/fuck you.ogg",length=1.254}}
+L["ha"]={{path="chatsounds/autoadd/jontron/ha.ogg",length=0.582}}
 L["i aint gonna take that sitting down"]={{path="chatsounds/autoadd/jontron/i aint gonna take that sitting down.ogg",length=3.346}}
 L["i aint havin that shit"]={{path="chatsounds/autoadd/jontron/i aint havin that shit.ogg",length=3.004}}
 L["i appreciate it"]={{path="chatsounds/autoadd/jontron/i appreciate it.ogg",length=1.276}}
@@ -51,6 +53,7 @@ L["ooooh im coming i uh im im done here i ffilled my purpose i i need to see no 
 L["ooooooooh you piece of shit"]={{path="chatsounds/autoadd/jontron/ooooooooh you piece of shit.ogg",length=3.124}}
 L["oops i killed him moving on"]={{path="chatsounds/autoadd/jontron/oops i killed him moving on.ogg",length=3.026}}
 L["outta this house outta this house"]={{path="chatsounds/autoadd/jontron/outta this house outta this house.ogg",length=2.090}}
+L["sniff oooo"]={{path="chatsounds/autoadd/jontron/sniff oooo.ogg",length=2.324}}
 L["spirits be gone from this house"]={{path="chatsounds/autoadd/jontron/spirits be gone from this house.ogg",length=2.399}}
 L["stahp"]={{path="chatsounds/autoadd/jontron/stahp/stahp1.ogg",length=0.769},{path="chatsounds/autoadd/jontron/stahp/stahp2.ogg",length=0.626},{path="chatsounds/autoadd/jontron/stahp/stahp3.ogg",length=0.874}}
 L["stranger danger"]={{path="chatsounds/autoadd/jontron/stranger danger.ogg",length=1.056}}
@@ -61,10 +64,12 @@ L["this is crack"]={{path="chatsounds/autoadd/jontron/this is crack.ogg",length=
 L["waht daaa fhuckk"]={{path="chatsounds/autoadd/jontron/waht daaa fhuckk.ogg",length=3.416}}
 L["wat"]={{path="chatsounds/autoadd/jontron/wat.ogg",length=0.880}}
 L["wat wtf"]={{path="chatsounds/autoadd/jontron/wat wtf.ogg",length=3.106}}
+L["welcome to sonic team we make games i think"]={{path="chatsounds/autoadd/jontron/welcome to sonic team we make games i think.ogg",length=2.946}}
 L["wh why what is it"]={{path="chatsounds/autoadd/jontron/wh why what is it.ogg",length=1.875}}
 L["what is my life"]={{path="chatsounds/autoadd/jontron/what is my life.ogg",length=1.643}}
 L["what is this a crack den i thought i was supposed to be getting off drugs"]={{path="chatsounds/autoadd/jontron/what is this a crack den i thought i was supposed to be getting off drugs.ogg",length=3.306}}
 L["what is this whered you learn to do this have you been doing seed"]={{path="chatsounds/autoadd/jontron/what is this whered you learn to do this have you been doing seed.ogg",length=3.330}}
+L["what the fuck is a sonic"]={{path="chatsounds/autoadd/jontron/what the fuck is a sonic.ogg",length=2.586}}
 L["whatchu doin"]={{path="chatsounds/autoadd/jontron/whatchu doin.ogg",length=0.718}}
 L["whatisthis"]={{path="chatsounds/autoadd/jontron/whatisthis.ogg",length=1.373}}
 L["whothefuckare you"]={{path="chatsounds/autoadd/jontron/whothefuckare you.ogg",length=1.281}}
